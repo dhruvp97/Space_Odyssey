@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Gold
+comment0.text=\r\n\ A\ bullet\ to\ be\ shot\ at\ asteroids.\r\n\ \r\n\ The\ Shot\ moves\ to\ the\ top\ of\ the\ screen\ and\ then\ expires.\ If\ it\ hits\ an\ asteroid\r\n\ on\ the\ way,\ it\ destroys\ the\ asteroid,\ and\ then\ expires\ immediately.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Shot\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

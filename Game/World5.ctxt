@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=World5
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ World5\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=World5()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ World5.\r\n\ \r\n
+comment2.params=gold\ power1\ power2\ screen
+comment2.target=World5(int,\ int,\ int,\ int)
+numComments=3

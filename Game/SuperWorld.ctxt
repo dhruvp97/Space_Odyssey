@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SuperWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SuperWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=gold\ power1\ power2\ screen
+comment1.target=SuperWorld(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ gameOver()
+comment3.params=world\ counter
+comment3.target=void\ changeWorld(greenfoot.World,\ int)
+comment4.params=
+comment4.target=boolean\ hitBoss()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ saveFile()
+numComments=7
